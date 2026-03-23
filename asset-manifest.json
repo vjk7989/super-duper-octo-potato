@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/super-duper-octo-potato/static/css/main.83668356.css",
+    "main.js": "/super-duper-octo-potato/static/js/main.8e601640.js",
+    "static/js/787.bb437012.chunk.js": "/super-duper-octo-potato/static/js/787.bb437012.chunk.js",
+    "index.html": "/super-duper-octo-potato/index.html",
+    "main.83668356.css.map": "/super-duper-octo-potato/static/css/main.83668356.css.map",
+    "main.8e601640.js.map": "/super-duper-octo-potato/static/js/main.8e601640.js.map",
+    "787.bb437012.chunk.js.map": "/super-duper-octo-potato/static/js/787.bb437012.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83668356.css",
+    "static/js/main.8e601640.js"
+  ]
+}
