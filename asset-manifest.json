@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.83668356.css",
-    "main.js": "/static/js/main.d01e5820.js",
-    "static/js/787.bb437012.chunk.js": "/static/js/787.bb437012.chunk.js",
-    "index.html": "/index.html",
-    "main.83668356.css.map": "/static/css/main.83668356.css.map",
-    "main.d01e5820.js.map": "/static/js/main.d01e5820.js.map",
-    "787.bb437012.chunk.js.map": "/static/js/787.bb437012.chunk.js.map"
+    "main.css": "https://thegoodtalkfactory.org/static/css/main.83668356.css",
+    "main.js": "https://thegoodtalkfactory.org/static/js/main.7fab8b4e.js",
+    "static/js/787.bb437012.chunk.js": "https://thegoodtalkfactory.org/static/js/787.bb437012.chunk.js",
+    "index.html": "https://thegoodtalkfactory.org/index.html",
+    "main.83668356.css.map": "https://thegoodtalkfactory.org/static/css/main.83668356.css.map",
+    "main.7fab8b4e.js.map": "https://thegoodtalkfactory.org/static/js/main.7fab8b4e.js.map",
+    "787.bb437012.chunk.js.map": "https://thegoodtalkfactory.org/static/js/787.bb437012.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83668356.css",
-    "static/js/main.d01e5820.js"
+    "static/js/main.7fab8b4e.js"
   ]
 }
